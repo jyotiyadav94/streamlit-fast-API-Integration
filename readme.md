@@ -20,3 +20,4 @@ frontend/
 docker-compose.yml        # Defines and manages multi-container Docker applications
 ```
 
+Credits : https://medium.com/latinxinai/fastapi-and-streamlit-app-with-docker-compose-e4d18d78d61d
